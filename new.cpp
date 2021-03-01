@@ -3,7 +3,7 @@
 using namespace std;
 void swap(int *&pa)
 {
-    int a = 5;
+    int a = 155;
     pa = &a;    
     return ;
 }
